@@ -1,0 +1,17 @@
+C:\Users\PulkkoAsus\source\repos\FormsTehtava23\NopeusPeli\bin\Debug\netcoreapp3.1\NopeusPeli.exe
+C:\Users\PulkkoAsus\source\repos\FormsTehtava23\NopeusPeli\bin\Debug\netcoreapp3.1\NopeusPeli.deps.json
+C:\Users\PulkkoAsus\source\repos\FormsTehtava23\NopeusPeli\bin\Debug\netcoreapp3.1\NopeusPeli.runtimeconfig.json
+C:\Users\PulkkoAsus\source\repos\FormsTehtava23\NopeusPeli\bin\Debug\netcoreapp3.1\NopeusPeli.runtimeconfig.dev.json
+C:\Users\PulkkoAsus\source\repos\FormsTehtava23\NopeusPeli\bin\Debug\netcoreapp3.1\NopeusPeli.dll
+C:\Users\PulkkoAsus\source\repos\FormsTehtava23\NopeusPeli\bin\Debug\netcoreapp3.1\NopeusPeli.pdb
+C:\Users\PulkkoAsus\source\repos\FormsTehtava23\NopeusPeli\obj\Debug\netcoreapp3.1\NopeusPeli.csprojAssemblyReference.cache
+C:\Users\PulkkoAsus\source\repos\FormsTehtava23\NopeusPeli\obj\Debug\netcoreapp3.1\NopeusPeli.Form1.resources
+C:\Users\PulkkoAsus\source\repos\FormsTehtava23\NopeusPeli\obj\Debug\netcoreapp3.1\NopeusPeli.HighscoreForm.resources
+C:\Users\PulkkoAsus\source\repos\FormsTehtava23\NopeusPeli\obj\Debug\netcoreapp3.1\NopeusPeli.LisaaHighscore.resources
+C:\Users\PulkkoAsus\source\repos\FormsTehtava23\NopeusPeli\obj\Debug\netcoreapp3.1\NopeusPeli.csproj.GenerateResource.cache
+C:\Users\PulkkoAsus\source\repos\FormsTehtava23\NopeusPeli\obj\Debug\netcoreapp3.1\NopeusPeli.AssemblyInfoInputs.cache
+C:\Users\PulkkoAsus\source\repos\FormsTehtava23\NopeusPeli\obj\Debug\netcoreapp3.1\NopeusPeli.AssemblyInfo.cs
+C:\Users\PulkkoAsus\source\repos\FormsTehtava23\NopeusPeli\obj\Debug\netcoreapp3.1\NopeusPeli.csproj.CoreCompileInputs.cache
+C:\Users\PulkkoAsus\source\repos\FormsTehtava23\NopeusPeli\obj\Debug\netcoreapp3.1\NopeusPeli.dll
+C:\Users\PulkkoAsus\source\repos\FormsTehtava23\NopeusPeli\obj\Debug\netcoreapp3.1\NopeusPeli.pdb
+C:\Users\PulkkoAsus\source\repos\FormsTehtava23\NopeusPeli\obj\Debug\netcoreapp3.1\NopeusPeli.genruntimeconfig.cache
